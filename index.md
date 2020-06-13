@@ -57,9 +57,9 @@ Tesla demonstrated a boat that used a coherer-based radio control—which he dub
 ## Patents
 Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inventions developed by Tesla were not put into patent protection.
 
-## Legacy and honors
+## Legacy and honors  test
 - **Places**
-  1. Belgrade Nikola Tesla Airport 
+  1. Belgrade Nikola Tesla 
   1. Nikola Tesla Museum Archive in Belgrade 
   1. TPP Nikola Tesla, the largest power plant in Serbia
   1. 128 streets in Croatia had been named after Nikola Tesla as of November 2008, making him the eighth most common street name origin in the country
